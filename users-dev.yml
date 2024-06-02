@@ -6,3 +6,6 @@ accounts:
   onCallSupport:
     - 0987975823
     - 0974716452
+
+server:
+  port: 8877
